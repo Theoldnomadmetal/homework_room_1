@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homework_room_1</string>
+    <string name="set_title">Введите заголовок</string>
+    <string name="set_desc">Введите описание</string>
+    <string name="tv_add">Заполните!</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="tv_homework">Задание № 16</string>
+</resources>
